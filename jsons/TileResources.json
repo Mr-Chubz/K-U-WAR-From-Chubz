@@ -1,0 +1,38 @@
+[	
+	{
+		"name": "Heroism",
+		"resourceType": "Bonus",
+	},
+	{
+		"name": "Elafia",
+		"resourceType": "Strategic",
+		"revealedBy": "Animal Husbandry",
+		"terrainsCanBeFoundOn": ["Hill","Forest","Tundra"],
+		"production": 1,
+		"improvement": "Camp",
+		"improvementStats": {"culture": 1},
+		"majorDepositAmount": {"sparse": 4, "default": 6, "abundant": 8},
+		"minorDepositAmount": {"sparse": 2, "default": 3, "abundant": 3}
+	},
+	{
+		"name": "Originiums",
+		"resourceType": "Strategic",
+		"revealedBy": "Industrialization",
+		"terrainsCanBeFoundOn": ["Plains","Desert","Tundra","Hill"],
+		"production": 1,
+		"improvement": "MinePlus",
+		"improvementStats": {"production": 2},
+		"majorDepositAmount": {"sparse": 5, "default": 8, "abundant": 10},
+		"minorDepositAmount": {"sparse": 2, "default": 3, "abundant": 3}
+	},
+	{
+		"name": "TerraPopulation",
+		"resourceType": "Bonus",
+		"revealedBy": "Agriculture",
+		"terrainsCanBeFoundOn": ["Plains","Desert","Tundra","Hill"],
+		"improvement": "City center",
+		"improvementStats": {"production": 1},
+		"majorDepositAmount": {"sparse": 2, "default": 3, "abundant": 7},
+		"minorDepositAmount": {"sparse": 1, "default": 2, "abundant": 5}
+	},
+]

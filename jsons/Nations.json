@@ -1,0 +1,177 @@
+[	{
+		"name": "Firewatch Guerrilla Group",
+		"leaderName": "Captain",
+		"adjective": ["Firewatch Guerrilla Group"],
+		"startBias": ["Forest"],
+		"preferredVictoryType": "Cultural",
+		
+		"startIntroPart1": "您好，守林人游击组织的队长，为了对抗Ursus Empire的侵犯，我们需要强大力量的帮助。",
+		"startIntroPart2": "没必要害怕那些阴影中的敌人，这些罪人无论用什么方法躲藏，都欺骗不了您的眼睛。",
+		"declaringWar": "发现敌情，立即采取行动。",
+		"attacked": "投降吧，你没有胜算的！",
+		"defeated": "我不想再看到熊熊燃烧的战火了，让一切，都结束吧。",
+		"introduction": "你好，我是卡西米尔守林人游击组织的队长，期待与你的合作",
+		
+		"neutralHello": "我正在警戒四周，没有问题。",
+		"hateHello": "这把弩是为了审判罪人制造的。终有一天，我要用它降下最后的裁决。",
+		
+		"tradeRequest": "快要入冬了，物资也很紧张。我们这样还能坚持多久呢？",
+		
+		"outerColor": [166,174,073],
+		"innerColor": [256,256,256],
+		"uniqueName": "The Forest Trail",
+		"uniques": [ "[+1 Production] from every [Forest]","[+15]% Strength <when fighting units from a Civilization with more Cities than you>"],
+		"cities": ["卡西米尔边境"]
+	},
+	{
+		"name": "Ursus Empire",
+		"leaderName": "Emperor",
+		"adjective": ["Ursus Empire"],
+		"startBias": ["Tundra"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "各个国家都有自称是卫士的人。要被保护的东西太多，自称卫士的人也实在太多。这些人大多腐败且无能，我们则因我们捍卫的事物而卓越。",
+		"startIntroPart2": "我们卫护的是乌萨斯帝国的未来。",
+		"declaringWar": "我所在的地方，即是Ursus Empire的领土",
+		"attacked": "乌萨斯帝国是我双手的衍生！",
+		"defeated": "帝国的士兵们，难道是为了这种没有尊严的事领受皇帝的恩惠吗？太荒谬了！ ",
+		"introduction": "我是乌萨斯帝国的皇帝，希望你能遵守规矩。",
+		
+		"neutralHello": "我们向你走来，你是否会后退？",
+		"hateHello": "你犯下的罪行和你掌控的秘密，依旧令你背负诸多罪责。",
+		
+		"tradeRequest": "乌萨斯的善举与恶行并重，在你面对我们的恶行时，也要面对我们善举培养的一切。",
+		
+		"outerColor": [205,55,0],
+		"innerColor": [249,237,069],
+		"uniqueName": "Black Snow",
+		"uniques": ["Earn [33]% of killed [Military] unit's [Strength] as [Science]","[-15]% maintenance costs <for [Land] units>","Double quantity of [Iron] produced","Double quantity of [Aluminum] produced"],
+
+		"cities": ["圣骏堡","切尔诺伯格","乌萨斯第三集团军","乌萨斯第五集团军","乌萨斯第六集团军"]
+	},
+	{
+		"name": "Adeptus Sprawiedliwi",
+		"leaderName": "Knight Commander Russell",
+		"adjective": ["Adeptus Sprawiedliwi"],
+		"startBias": ["Grassland"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": " ......“不畏苦暗”。这些优秀的苗子，却要在这个遍布腐毒的土壤里长大......也许我们做了一个错误的决定，临光...... ",
+		"startIntroPart2": "商业联合会最终也没猜到我们的目的。Adeptus Sprawiedliwi监证会已经接替监管了零号地块，商业联合会必定为此付出代价。",
+		"declaringWar": "......无胄盟想要伤害临光家的孩子？呵呵，他们的兵力储备如何？",
+		"attacked": " ......想必董事会的人，现在已经气得跳脚了吧。",
+		"defeated": "这条路......原来这么漫长吗？",
+		"introduction": "你好，我是卡西米尔监证会的骑士长罗素，期待与你的合作",
+		
+		"neutralHello": "授勋之地，是骑士的归属。",
+		"hateHello": "......卡西米尔无权为我授勋。",
+		
+		"tradeRequest": "你还是没改变心思，对吧。",
+		
+		"outerColor": [018,206,150],
+		"innerColor": [256,256,256],
+		"uniqueName": "Knight Glory",
+		"uniques": [ "[+1] Movement <for [{Military} {Land}] units>","+[15]% Strength if within [2] tiles of a [Command Center]","Double quantity of [Horses] produced"],
+		"cities": ["卡瓦莱利亚基大骑士领","银枪天马骑士团","诺斯伍德大骑士团","泰勒大骑士团","沸血骑士团","呼啸骑士团","锋盔骑士团","雪踵骑士团","红松骑士团","散华骑士团","滴水村"]
+	},
+		{
+		"name": "FOLLOWERS",
+		"leaderName": "Shining",
+		"adjective": ["FOLLOWERS"],
+		"preferredVictoryType": "Cultural",
+		
+		"startIntroPart1": "玛嘉烈·临光，卡西米尔耀骑士，卡西米尔的骑士精神，本应是这片大地上苦难者的救星，但现在的它，已经彻底沦落为被Kazimierz General Chamber of Commerce肆意操弄的腐朽遗产。没有比这更耻辱的了。",
+		"startIntroPart2": "所谓骑士，就是照亮整片大地的，崇高者！",
+		"declaringWar": "一切伤害，都由我来阻挡!",
+		"attacked": "荣耀必须被捍卫。",
+		"defeated": "胜利，失败......只不过是无限循环的一瞬。",
+		"introduction": "你好，我是使徒的闪灵，期待与你的合作",
+		
+		"neutralHello": "......这份寂静， 让我想起了身在故乡时的岁月。",
+		"hateHello": "“赦罪师”......？为什么会提到这个名字......对不起，这个话题我不能继续下去......",
+		
+		"tradeRequest": "“骑士”的称号理应是荣耀的象征，却不知曾几何时，它已经被当成了商品......",
+		
+		"outerColor": [50,50,50],
+		"innerColor": [256,226,087],
+		"uniqueName": "Not Afraid of Hardship",
+		"uniques": ["[+30]% Spread Religion Strength <for [Great Prophet] units>", "[-30]% Faith cost of generating Great Prophet equivalents"],
+		"cities": ["卡瓦莱利亚基大骑士领"]
+	},
+	{
+		"name": "Kazimierz General Chamber of Commerce",
+		"leaderName": "Markovitz",
+		"adjective": ["Kazimierz General Chamber of Commerce"],
+		"startBias": ["Avoid [Tundra]"],
+		"preferredVictoryType": "Scientific",
+		
+		"startIntroPart1": "敬爱的发言人马科维茨大人，我诚切的邀请你与董事会的人共进晚餐。",
+		"startIntroPart2": "自从那该死的无胄盟背叛了商业联合会后，我们还有很多事情要解决，不是吗？",
+		"declaringWar": "路上请小心。",
+		"attacked": "投降吧，你没有胜算的！",
+		"defeated": "我还有...我还有很多筹码...我没有失败...你不会这么做的！",
+		"introduction": "你好，我是卡西米尔商业联合会的发言人马科维茨，期待与你的合作",
+		
+		"neutralHello": "Oh, welcome!",
+		"hateHello": "Oh, it is you.",
+		
+		"tradeRequest": "My friend, it is my belief that this settlement can benefit both our peoples.",
+		
+		"outerColor": [000,127,204],
+		"innerColor": [209,018,026],
+		"uniqueName": "The Kazimierz Major",
+		"uniques": [ "[+2 Gold] from every [Pasture]","[-75]% maintenance on roads & railroads"],
+		"cities": ["卡瓦莱利亚基大骑士领","诺斯伍德大骑士团","泰勒大骑士团","沸血骑士团","呼啸骑士团","锋盔骑士团","雪踵骑士团","散华骑士团"]
+	},
+	{
+		"name": "Armorless Union",
+		"leaderName": "Obsidian",
+		"adjective": ["Armorless Union"],
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "向您致敬，无胄盟的玄铁大位。骑士时代的终结，不能绕开无胄盟的功绩。您与您的骑士杀手令骑士闻风丧胆，却无人知晓您的真身。在您的运筹帷幄之下，无胄盟已经不再受制于商业联合会，将发展壮大。",
+		"startIntroPart2": "神秘莫测的玄铁大位，现在正是带领无胄盟崛起之时。您能经受时间的考验，创建属于无胄盟的一方领土吗？",
+		"declaringWar": "我将悄无声息的毁灭你！",
+		"attacked": "条件万全，如此一来，已是将军！",
+		"defeated": "我会复仇的！",
+		"introduction": "你好，我是卡西米尔无胄盟的玄铁大位，期待与你的合作",
+		
+		"neutralHello": "向您致意，我的朋友。",
+		"hateHello": "你尚未灭亡，这就是我的诚意。",
+		
+		"tradeRequest": "这是新的合作项目，期待您的回复。",
+		
+		"outerColor": [150,150,150],
+		"innerColor": [256,256,256],
+		"uniqueName": "Knight Slayer",
+		"uniques": ["[+1] Movement <for [{Military} {Water}] units>","[-33]% maintenance costs <for [Water] units>","Units pay only 1 movement point to disembark"],
+		"cities": ["卡瓦莱利亚基大骑士领"]
+	},
+		{
+		"name": "Knights Reddle Pine",
+		"leaderName": "Flametail",
+		"adjective": ["Knights Reddle Pine"],
+		"startBias": ["Avoid [Coast]"],
+		"preferredVictoryType": "Cultural",
+		
+		"startIntroPart1": "这还是第一次在没有广告和闪光灯的场合下接受晋升呢。红松骑士团团长，焰尾骑士，索娜！以后也会继续努力的！",
+		"startIntroPart2": "以前，我们把无胄盟、商业联合会当做最邪恶的敌人。不过实际嘛，哈哈，我们是在和整个时代唱反调啊",
+		"declaringWar": "就你们，值得我使出全力吗？",
+		"attacked": "“炮声轰鸣，胜利已在眼前。”",
+		"defeated": "咳咳......是我的......错吗.....",
+		"introduction": "你好，我是感染者骑士团红松骑士团的团长焰尾，期待与你的合作",
+		
+		"neutralHello": "给，整理好的文件......这次没有出错了。",
+		"hateHello": " 哼，这就是骑士贵族，一无是处，只知道欺侮弱者。",
+		
+		"tradeRequest": "这是索娜，艾沃娜，还有灰毫拜托我带来的。还有，这一个是我选的。只是一点心意而已。",
+		
+		"outerColor": [232,071,050],
+		"innerColor": [256,256,256],
+		"uniqueName": "Infected Knights",
+		"uniques": ["[+2 Happiness] [in all cities] <before discovering [Civil Service]>","[+20]% Strength <for [All] units> <during a Golden Age>"],
+		"cities": ["红松骑士团"]
+	},
+	
+]
