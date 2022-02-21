@@ -1,9 +1,14 @@
-Codes:InvleopeVoice
-代码：纸鸢函音
-Paint:InvleopeVoice
-美工：纸鸢函音
+This mod is Doujin(?) about Game:Arknights 
+Battle between Kazimierz  and   Ursus Empire
+Source: official
+
+
+SomeCodes:InvleopeVoice
+一点代码：纸鸢函音
+PixelPaint:InvleopeVoice
+像素美工：纸鸢函音
 DOC:InvleopeVoice,Babylon
-文案：纸鸢函音，Babylon
+没有文案：纸鸢函音，Babylon
 
 设定基于明日方舟的二次创作
 贴图基于明日方舟的PRTS获取，音源基于明日方舟的PRTS获取
@@ -27,5 +32,3 @@ Any unauthorized transshipment is prohibited.
 1.3平衡性测试修正，国家标语未添加翻译句，还原为中文
 
 1.4游戏版本更新修正，增加英雄机制，守林人游击组织独立阵营重新编写中
-
-游戏版本BUG：优先占领文明首都可能引发不可运行的错误
