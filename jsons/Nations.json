@@ -5,23 +5,23 @@
 		"startBias": ["Forest"],
 		"preferredVictoryType": "Cultural",
 		
-		"startIntroPart1": "您好，守林人游击组织的队长，为了对抗Ursus Empire的侵犯，我们需要强大力量的帮助。",
-		"startIntroPart2": "没必要害怕那些阴影中的敌人，这些罪人无论用什么方法躲藏，都欺骗不了您的眼睛。",
-		"declaringWar": "发现敌情，立即采取行动。",
-		"attacked": "投降吧，你没有胜算的！",
-		"defeated": "我不想再看到熊熊燃烧的战火了，让一切，都结束吧。",
-		"introduction": "你好，我是卡西米尔守林人游击组织的队长，期待与你的合作",
+		"startIntroPart1": "Hello, captain of the Foresters guerrilla organization, in order to fight the encroachment of the Ursus Empire, we need the help of powerful forces.",
+		"startIntroPart2": "There is no need to be afraid of enemies in the shadows, these sinners will not be able to deceive your eyes no matter how they hide.",
+		"declaringWar": "Detect the enemy and take immediate action.",
+		"attacked": "Surrender, you have no chance of victory!",
+		"defeated": "I don't want to see the raging fire of war anymore, let everything end.",
+		"introduction": "Hello, I am the captain of the Casimir Forester Guerrilla Organization and look forward to cooperating with you",
 		
-		"neutralHello": "我正在警戒四周，没有问题。",
-		"hateHello": "这把弩是为了审判罪人制造的。终有一天，我要用它降下最后的裁决。",
+		"neutralHello": "I'm on guard and there's no problem.",
+		"hateHello": "This crossbow was made to judge sinners. One day, I will use it to lower the final verdict.",
 		
-		"tradeRequest": "快要入冬了，物资也很紧张。我们这样还能坚持多久呢？",
+		"tradeRequest": "It's almost winter, and supplies are tight. How long can we do this?",
 		
 		"outerColor": [166,174,073],
 		"innerColor": [256,256,256],
 		"uniqueName": "The Forest Trail",
 		"uniques": [ "[+1 Production] from every [Forest]","[+15]% Strength <when fighting units from a Civilization with more Cities than you>"],
-		"cities": ["卡西米尔边境"]
+		"cities": ["Casimir"]
 	},
 	{
 		"name": "Ursus Empire",
@@ -30,24 +30,24 @@
 		"startBias": ["Tundra"],
 		"preferredVictoryType": "Domination",
 		
-		"startIntroPart1": "各个国家都有自称是卫士的人。要被保护的东西太多，自称卫士的人也实在太多。这些人大多腐败且无能，我们则因我们捍卫的事物而卓越。",
-		"startIntroPart2": "我们卫护的是乌萨斯帝国的未来。",
-		"declaringWar": "我所在的地方，即是Ursus Empire的领土",
-		"attacked": "乌萨斯帝国是我双手的衍生！",
-		"defeated": "帝国的士兵们，难道是为了这种没有尊严的事领受皇帝的恩惠吗？太荒谬了！ ",
-		"introduction": "我是乌萨斯帝国的皇帝，希望你能遵守规矩。",
+		"startIntroPart1": "Every country has people who call themselves defenders. There are so many things to be protected, and too many people who call themselves defenders. Most of these people are corrupt and incompetent, and we are superior to what we defend.",
+		"startIntroPart2": "We are defending the future of the Usas Empire.",
+		"declaringWar": "Where I am is the territory of the Ursus Empire",
+		"attacked": "The Usas Empire is a derivative of my hands!",
+		"defeated": "Did the soldiers of the empire receive the favor of the emperor for such a dignified thing? That's ridiculous! ",
+		"introduction": "I am the emperor of the Usas Empire and I hope you will follow the rules.",
 		
-		"neutralHello": "我们向你走来，你是否会后退？",
-		"hateHello": "你犯下的罪行和你掌控的秘密，依旧令你背负诸多罪责。",
+		"neutralHello": "We come to you, will you back down?",
+		"hateHello": "The crimes you committed and the secrets you control still burden you with many guilts.",
 		
-		"tradeRequest": "乌萨斯的善举与恶行并重，在你面对我们的恶行时，也要面对我们善举培养的一切。",
+		"tradeRequest": "Usas's good deeds and evil deeds are equally important, and when you face our evil deeds, you must also face everything that our good deeds cultivate.",
 		
 		"outerColor": [205,55,0],
 		"innerColor": [249,237,069],
 		"uniqueName": "Black Snow",
 		"uniques": ["Earn [33]% of killed [Military] unit's [Strength] as [Science]","[-15]% maintenance costs <for [Land] units>","Double quantity of [Iron] produced","Double quantity of [Aluminum] produced"],
 
-		"cities": ["圣骏堡","切尔诺伯格","乌萨斯第三集团军","乌萨斯第五集团军","乌萨斯第六集团军"]
+		"cities": ["Fort St. Petersburg","Chernoberg","Usas Third Army","Usas 5th Army","Usas 6th Army"]
 	},
 	{
 		"name": "Adeptus Sprawiedliwi",
@@ -56,47 +56,47 @@
 		"startBias": ["Grassland"],
 		"preferredVictoryType": "Domination",
 		
-		"startIntroPart1": " ......“不畏苦暗”。这些优秀的苗子，却要在这个遍布腐毒的土壤里长大......也许我们做了一个错误的决定，临光...... ",
-		"startIntroPart2": "商业联合会最终也没猜到我们的目的。Adeptus Sprawiedliwi监证会已经接替监管了零号地块，商业联合会必定为此付出代价。",
-		"declaringWar": "......无胄盟想要伤害临光家的孩子？呵呵，他们的兵力储备如何？",
-		"attacked": " ......想必董事会的人，现在已经气得跳脚了吧。",
-		"defeated": "这条路......原来这么漫长吗？",
-		"introduction": "你好，我是卡西米尔监证会的骑士长罗素，期待与你的合作",
+		"startIntroPart1": " ......“Not afraid of hardship and darkness". These excellent seedlings have to grow up in this soil full of rot... Maybe we made a bad decision, Linguang... ",
+		"startIntroPart2": "The business federation ultimately didn't guess our purpose. Adeptus Sprawiedliwi has taken over supervision of Plot Zero, and the business federation will have to pay the price.",
+		"declaringWar": "...... Wuxuan Meng wants to hurt the children of the Linguang family? Huh, how are their reserves of forces?",
+		"attacked": " ...... Presumably, the people on the board of directors are jumping their feet in anger now.",
+		"defeated": "This road... Is it so long?",
+		"introduction": "Hello, I am Russell, the Knight Commander of the Casimir Supervisory Council, and I look forward to cooperating with you",
 		
-		"neutralHello": "授勋之地，是骑士的归属。",
-		"hateHello": "......卡西米尔无权为我授勋。",
+		"neutralHello": "The place of the award is the belonging of the knights.",
+		"hateHello": "...... Casimir has no right to award me with honors.",
 		
-		"tradeRequest": "你还是没改变心思，对吧。",
+		"tradeRequest": "You still haven't changed your mind, have you?",
 		
 		"outerColor": [018,206,150],
 		"innerColor": [256,256,256],
 		"uniqueName": "Knight Glory",
 		"uniques": [ "[+1] Movement <for [{Military} {Land}] units>","+[15]% Strength if within [2] tiles of a [Command Center]","Double quantity of [Horses] produced"],
-		"cities": ["卡瓦莱利亚基大骑士领","银枪天马骑士团","诺斯伍德大骑士团","泰勒大骑士团","沸血骑士团","呼啸骑士团","锋盔骑士团","雪踵骑士团","红松骑士团","散华骑士团","滴水村"]
+		"cities": ["Grand Knight of Cavaleriaki","Knights of the Silver Lance","Grand Knights of Northwood","Grand Knights of Taylor","Knights of Boiling Blood","Wuthering Knights","Knights of the Blade Helmet","Knights of the Snow Heel","Knights of the Red Pine","Knights of Sanhua","Drip Village"]
 	},
 		{
 		"name": "FOLLOWERS",
-		"leaderName": "Shining",
-		"adjective": ["FOLLOWERS"],
+		"leaderName": "The Shining",
+		"adjective": ["The Followers"],
 		"preferredVictoryType": "Cultural",
 		
-		"startIntroPart1": "玛嘉烈·临光，卡西米尔耀骑士，卡西米尔的骑士精神，本应是这片大地上苦难者的救星，但现在的它，已经彻底沦落为被Kazimierz General Chamber of Commerce肆意操弄的腐朽遗产。没有比这更耻辱的了。",
-		"startIntroPart2": "所谓骑士，就是照亮整片大地的，崇高者！",
-		"declaringWar": "一切伤害，都由我来阻挡!",
-		"attacked": "荣耀必须被捍卫。",
-		"defeated": "胜利，失败......只不过是无限循环的一瞬。",
-		"introduction": "你好，我是使徒的闪灵，期待与你的合作",
+		"startIntroPart1": "Margaret Linguang, Knight of Casimir, Casimir's chivalry, should have been the savior of the suffering on this land, but now it has been completely reduced to a rotten legacy manipulated by Kazimierz General Chamber of Commerce. There is no greater shame than that.",
+		"startIntroPart2": "The so-called knight is the one who illuminates the entire earth, the sublime!",
+		"declaringWar": "All harm is stopped by me!",
+		"attacked": "Glory must be defended.",
+		"defeated": "Victory, defeat... It's just a moment of an infinite loop.",
+		"introduction": "Hello, I am the Shining of the Apostles and look forward to working with you",
 		
-		"neutralHello": "......这份寂静， 让我想起了身在故乡时的岁月。",
-		"hateHello": "“赦罪师”......？为什么会提到这个名字......对不起，这个话题我不能继续下去......",
+		"neutralHello": "...... This silence reminds me of the years when I was in my hometown.",
+		"hateHello": ""Forgiver "...? Why is the name mentioned... Sorry, I can't continue on this topic ...",
 		
-		"tradeRequest": "“骑士”的称号理应是荣耀的象征，却不知曾几何时，它已经被当成了商品......",
+		"tradeRequest": "The title of "knight" is supposed to be a symbol of glory, but once upon a time, it was already considered a commodity...",
 		
 		"outerColor": [50,50,50],
 		"innerColor": [256,226,087],
 		"uniqueName": "Not Afraid of Hardship",
 		"uniques": ["[+30]% Spread Religion Strength <for [Great Prophet] units>", "[-30]% Faith cost of generating Great Prophet equivalents"],
-		"cities": ["卡瓦莱利亚基大骑士领"]
+		"cities": ["Grand Knight of Cavaleriaki"]
 	},
 	{
 		"name": "Kazimierz General Chamber of Commerce",
@@ -105,8 +105,8 @@
 		"startBias": ["Avoid [Tundra]"],
 		"preferredVictoryType": "Scientific",
 		
-		"startIntroPart1": "敬爱的发言人马科维茨大人，我诚切的邀请你与董事会的人共进晚餐。",
-		"startIntroPart2": "自从那该死的无胄盟背叛了商业联合会后，我们还有很多事情要解决，不是吗？",
+		"startIntroPart1": "Dear Speaker, Lord Markowitz, I cordially invite you to dinner with members of the Board.",
+		"startIntroPart2": "We still have a lot to settle since that damn Ranny Alliance betrayed the Business Federation, don't we?",
 		"declaringWar": "路上请小心。",
 		"attacked": "投降吧，你没有胜算的！",
 		"defeated": "我还有...我还有很多筹码...我没有失败...你不会这么做的！",
