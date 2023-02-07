@@ -107,10 +107,10 @@
 		
 		"startIntroPart1": "Dear Speaker, Lord Markowitz, I cordially invite you to dinner with members of the Board.",
 		"startIntroPart2": "We still have a lot to settle since that damn Ranny Alliance betrayed the Business Federation, don't we?",
-		"declaringWar": "路上请小心。",
-		"attacked": "投降吧，你没有胜算的！",
-		"defeated": "我还有...我还有很多筹码...我没有失败...你不会这么做的！",
-		"introduction": "你好，我是卡西米尔商业联合会的发言人马科维茨，期待与你的合作",
+		"declaringWar": "Please be careful on the road.",
+		"attacked": "Surrender, you have no chance of victory!",
+		"defeated": "I still have... I still have a lot of chips... I didn't fail... You won't do it!",
+		"introduction": "Hello, I am Markowitz, spokesperson of the Casimir Business Federation, and look forward to working with you",
 		
 		"neutralHello": "Oh, welcome!",
 		"hateHello": "Oh, it is you.",
@@ -121,7 +121,7 @@
 		"innerColor": [209,018,026],
 		"uniqueName": "The Kazimierz Major",
 		"uniques": [ "[+2 Gold] from every [Pasture]","[-75]% maintenance on roads & railroads"],
-		"cities": ["卡瓦莱利亚基大骑士领","诺斯伍德大骑士团","泰勒大骑士团","沸血骑士团","呼啸骑士团","锋盔骑士团","雪踵骑士团","散华骑士团"]
+		"cities": ["Grand Knight of Cavaleriaki","Grand Knights of Northwood","Grand Knights of Taylor","Knights of Boiling Blood","Wuthering Knights","Knights of the Blade Helmet","Knights of the Snow Heel","Knights of Sanhua"]
 	},
 	{
 		"name": "Armorless Union",
@@ -130,23 +130,23 @@
 		"startBias": ["Coast"],
 		"preferredVictoryType": "Domination",
 		
-		"startIntroPart1": "向您致敬，无胄盟的玄铁大位。骑士时代的终结，不能绕开无胄盟的功绩。您与您的骑士杀手令骑士闻风丧胆，却无人知晓您的真身。在您的运筹帷幄之下，无胄盟已经不再受制于商业联合会，将发展壮大。",
-		"startIntroPart2": "神秘莫测的玄铁大位，现在正是带领无胄盟崛起之时。您能经受时间的考验，创建属于无胄盟的一方领土吗？",
-		"declaringWar": "我将悄无声息的毁灭你！",
-		"attacked": "条件万全，如此一来，已是将军！",
-		"defeated": "我会复仇的！",
-		"introduction": "你好，我是卡西米尔无胄盟的玄铁大位，期待与你的合作",
+		"startIntroPart1": "Hats off to you, the great position of Xuantie without a league. The end of the knightly era cannot bypass the merits of the Invisible Alliance. You and your Knight Slayer terrify the Knight, but no one knows who you really are. Under your strategic planning, the alliance is no longer subject to business federations and will grow.",
+		"startIntroPart2": "The mysterious Xuan Tie Great Position, now is the time to lead the rise of the Wuxuan Alliance. Can you stand the test of time and create a territory that belongs to the unarmed alliance?",
+		"declaringWar": "I will destroy you silently!",
+		"attacked": "The conditions are perfect, so that he is already a general!",
+		"defeated": "I'll take revenge!",
+		"introduction": "Hello, I am the Grand Master of Casimir Wuxuan League, and I look forward to cooperating with you",
 		
-		"neutralHello": "向您致意，我的朋友。",
-		"hateHello": "你尚未灭亡，这就是我的诚意。",
+		"neutralHello": "Greetings to you, my friend.",
+		"hateHello": "You have not perished, and this is my sincerity.",
 		
-		"tradeRequest": "这是新的合作项目，期待您的回复。",
+		"tradeRequest": "This is a new collaborative project and we look forward to your response.",
 		
 		"outerColor": [150,150,150],
 		"innerColor": [256,256,256],
 		"uniqueName": "Knight Slayer",
 		"uniques": ["[+1] Movement <for [{Military} {Water}] units>","[-33]% maintenance costs <for [Water] units>","Units pay only 1 movement point to disembark"],
-		"cities": ["卡瓦莱利亚基大骑士领"]
+		"cities": ["Grand Knight of Cavaleriaki"]
 	},
 		{
 		"name": "Knights Reddle Pine",
@@ -155,23 +155,23 @@
 		"startBias": ["Avoid [Coast]"],
 		"preferredVictoryType": "Cultural",
 		
-		"startIntroPart1": "这还是第一次在没有广告和闪光灯的场合下接受晋升呢。红松骑士团团长，焰尾骑士，索娜！以后也会继续努力的！",
-		"startIntroPart2": "以前，我们把无胄盟、商业联合会当做最邪恶的敌人。不过实际嘛，哈哈，我们是在和整个时代唱反调啊",
-		"declaringWar": "就你们，值得我使出全力吗？",
-		"attacked": "“炮声轰鸣，胜利已在眼前。”",
-		"defeated": "咳咳......是我的......错吗.....",
-		"introduction": "你好，我是感染者骑士团红松骑士团的团长焰尾，期待与你的合作",
+		"startIntroPart1": "This is the first time I have been promoted without advertising or flash. Head of the Red Pine Knights, Flame Tail Knights, Sona! I will continue to work hard in the future!",
+		"startIntroPart2": "In the past, we regarded the Invisible Alliance and the Business Federation as the most evil enemies. But actually, haha, we are against the whole era",
+		"declaringWar": "As far as you are concerned, is it worth my full effort?",
+		"attacked": ""The cannons roared, and victory was at hand."",
+		"defeated": "Ahem... It's mine...... Is it wrong.....",
+		"introduction": "Hello, I am the leader of the Red Pine Knights of the Knights of the Infected, Flametail, and I look forward to cooperating with you",
 		
-		"neutralHello": "给，整理好的文件......这次没有出错了。",
-		"hateHello": " 哼，这就是骑士贵族，一无是处，只知道欺侮弱者。",
+		"neutralHello": "Give, sorted out documents ... There was nothing wrong this time.",
+		"hateHello": " Hmph, this is a knight nobleman, who is worthless, only knows how to bully the weak.",
 		
-		"tradeRequest": "这是索娜，艾沃娜，还有灰毫拜托我带来的。还有，这一个是我选的。只是一点心意而已。",
+		"tradeRequest": "This is Sona, Avona, and Ash, please bring me. Also, I chose this one. It's just a little bit of heart.",
 		
 		"outerColor": [232,071,050],
 		"innerColor": [256,256,256],
 		"uniqueName": "Infected Knights",
 		"uniques": ["[+2 Happiness] [in all cities] <before discovering [Civil Service]>","[+20]% Strength <for [All] units> <during a Golden Age>"],
-		"cities": ["红松骑士团"]
+		"cities": ["Knights of the Red Pine"]
 	},
 	
 ]
