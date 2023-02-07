@@ -4,11 +4,11 @@ Source: official
 
 
 SomeCodes:InvleopeVoice
-一点代码：纸鸢函音
+
 PixelPaint:InvleopeVoice
-像素美工：纸鸢函音
+
 DOC:InvleopeVoice,Babylon
-没有文案：纸鸢函音，Babylon
+
 
 设定基于明日方舟的二次创作
 贴图基于明日方舟的PRTS获取，音源基于明日方舟的PRTS获取
